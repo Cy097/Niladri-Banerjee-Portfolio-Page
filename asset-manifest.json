@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ReactBased-Portfolio-WWebpage/static/css/main.da46d317.css",
-    "main.js": "/ReactBased-Portfolio-WWebpage/static/js/main.297ac227.js",
-    "static/media/image.png": "/ReactBased-Portfolio-WWebpage/static/media/image.7b767ccda84b0dc6f4ea.png",
-    "static/media/bug.png": "/ReactBased-Portfolio-WWebpage/static/media/bug.96e914dbfb7af9915809.png",
-    "static/media/menu.png": "/ReactBased-Portfolio-WWebpage/static/media/menu.ab1e429d992b0ebcbdc5.png",
-    "static/media/coding.png": "/ReactBased-Portfolio-WWebpage/static/media/coding.b30e9e372b9795cb12c9.png",
-    "static/media/logo.png": "/ReactBased-Portfolio-WWebpage/static/media/logo.1d31e7d84f419b589886.png",
-    "static/media/work1.png": "/ReactBased-Portfolio-WWebpage/static/media/work1.2ee9b916782d5206ffa0.png",
-    "static/media/naukri.png": "/ReactBased-Portfolio-WWebpage/static/media/naukri.69c2e8c8da46eab52104.png",
-    "static/media/work3.png": "/ReactBased-Portfolio-WWebpage/static/media/work3.8afa39690920252cef63.png",
-    "static/media/work2.png": "/ReactBased-Portfolio-WWebpage/static/media/work2.9ce96e4821ed4b01a801.png",
-    "index.html": "/ReactBased-Portfolio-WWebpage/index.html",
-    "main.da46d317.css.map": "/ReactBased-Portfolio-WWebpage/static/css/main.da46d317.css.map",
-    "main.297ac227.js.map": "/ReactBased-Portfolio-WWebpage/static/js/main.297ac227.js.map"
+    "main.css": "/Niladri-Banerjee-Portfolio-Page/static/css/main.da46d317.css",
+    "main.js": "/Niladri-Banerjee-Portfolio-Page/static/js/main.69fe69ed.js",
+    "static/media/image.png": "/Niladri-Banerjee-Portfolio-Page/static/media/image.7b767ccda84b0dc6f4ea.png",
+    "static/media/bug.png": "/Niladri-Banerjee-Portfolio-Page/static/media/bug.96e914dbfb7af9915809.png",
+    "static/media/menu.png": "/Niladri-Banerjee-Portfolio-Page/static/media/menu.ab1e429d992b0ebcbdc5.png",
+    "static/media/coding.png": "/Niladri-Banerjee-Portfolio-Page/static/media/coding.b30e9e372b9795cb12c9.png",
+    "static/media/logo.png": "/Niladri-Banerjee-Portfolio-Page/static/media/logo.1d31e7d84f419b589886.png",
+    "static/media/work1.png": "/Niladri-Banerjee-Portfolio-Page/static/media/work1.2ee9b916782d5206ffa0.png",
+    "static/media/naukri.png": "/Niladri-Banerjee-Portfolio-Page/static/media/naukri.69c2e8c8da46eab52104.png",
+    "static/media/work3.png": "/Niladri-Banerjee-Portfolio-Page/static/media/work3.8afa39690920252cef63.png",
+    "static/media/work2.png": "/Niladri-Banerjee-Portfolio-Page/static/media/work2.9ce96e4821ed4b01a801.png",
+    "index.html": "/Niladri-Banerjee-Portfolio-Page/index.html",
+    "main.da46d317.css.map": "/Niladri-Banerjee-Portfolio-Page/static/css/main.da46d317.css.map",
+    "main.69fe69ed.js.map": "/Niladri-Banerjee-Portfolio-Page/static/js/main.69fe69ed.js.map"
   },
   "entrypoints": [
     "static/css/main.da46d317.css",
-    "static/js/main.297ac227.js"
+    "static/js/main.69fe69ed.js"
   ]
 }
